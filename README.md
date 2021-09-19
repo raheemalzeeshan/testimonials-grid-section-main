@@ -1,7 +1,5 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -26,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Testimonials grid section coding challenge](./images/Testimonials grid section.png)
+![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.png)
 
 ## My process
 
