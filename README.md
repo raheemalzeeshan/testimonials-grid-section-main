@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.png)
+![Design preview for the Testimonials grid section coding challenge](./design/desktop-design.jpg)
 
 ## My process
 
