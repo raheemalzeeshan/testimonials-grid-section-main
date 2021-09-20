@@ -194,7 +194,9 @@ main .container {
     .all-sections {
         flex-direction: column;
     }
-
+        main .container {
+            padding: 20px 0px;
+    }
     .container .testiomonial-one .quotation {
         width: 115px;
     }
