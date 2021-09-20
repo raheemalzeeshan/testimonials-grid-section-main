@@ -37,7 +37,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [@raheemalzeeshan](https://www.linkedin.com/in/raheemalzeeshan/)
+- Frontend Mentor - [@raheemalzeeshan](https://www.frontendmentor.io/profile/raheemalzeeshan)
+- Twitter - [@raheemalzeeshan](https://www.twitter.com/raheemalzeeshan)
 
+**Thank You!** 🚀
